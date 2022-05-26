@@ -1,0 +1,31 @@
+.carousel-inner {
+    width: 600px;
+    height: 360px;
+    inline-size: 600px;
+    padding-top: 20px;
+}
+.pie {
+    bottom: 0;
+    width: 70%;
+    text-align: center;
+    position: fixed;
+}
+.container  {
+    text-align: center;
+    place-items: left;
+}
+.container2 {
+    padding: 30px;
+    padding-top: 10;
+    text-align: justify;
+    font-weight: bold;
+}
+.direccion {
+    font-weight: bold;
+}
+.container3 {
+    text-align: center;
+}
+body {
+    background-image: url(https://wallpapers-hub.art/wallpaper-images/6512.jpg);
+}
